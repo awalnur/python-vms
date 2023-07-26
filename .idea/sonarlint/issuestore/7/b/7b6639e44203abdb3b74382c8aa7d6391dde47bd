@@ -1,0 +1,6 @@
+
+mpython:S3776â"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(à’”Ë
+Bpython:S1940Æ")Use the opposite operator ("!=") instead.(†ê»◊
+mpython:S3776—"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ååñÃ
+Zpython:S5842Ÿ"<Rework this part of the regex to not match the empty string.(Ú‘òª˚ˇˇˇˇ
+mpython:S5843”"TSimplify this regular expression to reduce its complexity from 41 to the 20 allowed.(¢Æ˛ˇ
